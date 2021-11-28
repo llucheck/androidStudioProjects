@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ToDo-Notify.iml" filepath="$PROJECT_DIR$/ToDo-Notify.iml" group="ToDo-Notify" />
+      <module fileurl="file://$PROJECT_DIR$/app/ToDo-Notify-app.iml" filepath="$PROJECT_DIR$/app/ToDo-Notify-app.iml" group="ToDo-Notify/app" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" group="ToDo-Notify/app" />
+      <module fileurl="file://$PROJECT_DIR$/mad-week13-llucheck-ToDo-Notify.iml" filepath="$PROJECT_DIR$/mad-week13-llucheck-ToDo-Notify.iml" group="ToDo-Notify" />
+    </modules>
+  </component>
+</project>

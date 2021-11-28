@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/CourseRatingFragment.iml" filepath="$PROJECT_DIR$/CourseRatingFragment.iml" group="CourseRatingFragment" />
+      <module fileurl="file://$PROJECT_DIR$/app/CourseRatingFragment-app.iml" filepath="$PROJECT_DIR$/app/CourseRatingFragment-app.iml" group="CourseRatingFragment/app" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" group="CourseRatingFragment/app" />
+      <module fileurl="file://$PROJECT_DIR$/mad-week11-llucheck-CourseRatingFragment.iml" filepath="$PROJECT_DIR$/mad-week11-llucheck-CourseRatingFragment.iml" group="CourseRatingFragment" />
+    </modules>
+  </component>
+</project>

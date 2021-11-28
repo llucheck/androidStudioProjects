@@ -1,0 +1,56 @@
+<resources>
+    <string name="app_name">The Book Rating App</string>
+    <string name="submitrating">Submit Rating</string>
+    <string name="authorname">Author Name</string>
+    <string name="booktitle">Book Title</string>
+    <string name="book_rating">Book Rating</string>
+
+    <string-array name="book_type">
+        <item>Select a genre</item>
+        <item>Fantasy</item>
+        <item>Romance</item>
+        <item>Sci-Fi</item>
+        <item>Mystery</item>
+        <item>Adventure</item>
+        <item>Horror</item>
+        <item>Non-Fiction</item>
+    </string-array>
+
+    <string name="add_a_review">Add a Review</string>
+    <string name="welcome_message">Book Rating App</string>
+
+    <plurals name="star_rating">
+        <item quantity="zero">Rating: %d stars</item>
+        <item quantity="one">Rating: %d star</item>
+        <item quantity="other">Rating: %d stars</item>
+    </plurals>
+
+    <string name="settings">Settings</string>
+
+    <!-- Titles for preferences -->
+    <string name="default_choice">Select the default rating</string>
+    <string name="theme_choice">Dark Theme</string>
+
+    <!-- Key name for rating preference in SharedPreferences -->
+    <string name="pref_rating_key" translatable="false">rating</string>
+    <string name="pref_theme_key" translatable="false">dark</string>
+
+
+    <!-- Labels and values for preference list -->
+    <string-array name="rating_labels">
+        <item>One Star</item>
+        <item>Two Stars</item>
+        <item>Three Stars</item>
+        <item>Four Stars</item>
+        <item>Five Stars</item>
+    </string-array>
+
+    <string-array name="rating_values">
+        <item>"1</item>
+        <item>"2"</item>
+        <item>"3"</item>
+        <item>"4"</item>
+        <item>"5"</item>
+    </string-array>
+
+</resources>

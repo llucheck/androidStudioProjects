@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Weather App</string>
+    <string name="title">Five Day Forecast</string>
+    <string name="attribution">Data provided by openweathermap.org</string>
+</resources>

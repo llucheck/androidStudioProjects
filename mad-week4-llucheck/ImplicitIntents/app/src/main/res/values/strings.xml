@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ImplicitIntents</string>
+    <string name="open_website">Open Website</string>
+    <string name="search_google">Search Google</string>
+    <string name="call_ray">Call Ray</string>
+    <string name="share_text">Share Text</string>
+    <string name="open_contacts">Open Contacts</string>
+    <string name="find_lewis_university">Find Lewis University</string>
+</resources>
